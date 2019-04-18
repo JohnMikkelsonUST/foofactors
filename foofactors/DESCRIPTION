@@ -1,0 +1,18 @@
+Package: foofactors
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "John",
+           family = "Mikkelson",
+           role = c("aut", "cre"),
+           email = "mikk9317@stthomas.edu")
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/JohnMikkelsonUST/foofactors
+BugReports: https://github.com/JohnMikkelsonUST/foofactors/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+Imports: 
+    forcats
